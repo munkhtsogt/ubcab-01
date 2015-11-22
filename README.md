@@ -1,5 +1,5 @@
 ubcab
 ========
 
-Mongolian version of Uber
+Mongolian version of Uber(Smart phone taxi calling app)
 
