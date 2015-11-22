@@ -1,3 +1,5 @@
-ubcab-01
+ubcab
 ========
+
+Mongolian version of Uber
 
